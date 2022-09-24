@@ -1,6 +1,6 @@
-# Project 3 - *Tweetz*
+# Twitter - Part I
 
-**Tweetz** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
@@ -24,4 +24,3 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/miguelSablan/Tweetz/blob/main/Part1Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
